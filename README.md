@@ -1,6 +1,6 @@
 ## DormitorySystem 
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-brightgreen.svg) ![Java](https://img.shields.io/badge/Java-1.8-blue.svg) ![Database](https://img.shields.io/badge/Database-MySQL-lightgrey.svg) 
-- 毕业设计💼
+- 课程设计💼
 - MD5加密🔒
 - SSM框架🎨
 - Layui框架🎄
