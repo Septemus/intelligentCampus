@@ -228,7 +228,7 @@
             $("#addStudnetBtn").click(function () {
                 layer.open({
                     type:1,
-                    title:"添加班级",
+                    title:"添加维修记录",
                     skin:"myclass",
                     area:["50%"],
                     anim:2,
